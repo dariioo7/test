@@ -30,5 +30,4 @@ while menu_ok:
                     else:
                         #agregar pelicula al diccionario
                         print(peliculas)
-                case 2:
-                    
+                    print("Programa terminado")
